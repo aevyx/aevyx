@@ -14,13 +14,11 @@
 ## **about me**
 
 - 🎬 currently brewing an anime streaming project with the mern stack, because who doesn't want more anime?
-
 - 🟣 learning blockchain and cybersecurity, even i don't know why, maybe because i was getting bored i guess.
-
 - 🎓 starting college this year(2025), unofficially questioning all my life decisions (but still surviving).
-
 - ⚖️ trying to balance academics, projects, and existential dread like a pro.
 
+<br/>
 <div style="display: flex;padding:0px 10px 20px; flex-wrap: wrap;  gap: 6px;">
 <img src="badges/LinkedIn.svg" height="28"/> <img src="badges/LeetCode.svg" height="28"/> <img src="badges/HackerRank.svg" height="28"/> <img src="badges/CodeChef.svg" height="28"/> <img src="badges/GitHub.svg" height="28"/> <img src="badges/Twitter.svg" height="28"/> <img src="badges/Instagram.svg" height="28"/> <img src="badges/YouTube.svg" height="28"/>  <img src="badges/Discord.svg" height="28"/>
 
@@ -49,3 +47,7 @@
 <p >
   <img src="https://github-profile-trophy.vercel.app/?username=aevyx&theme=default&no-frame=false&no-bg=false&margin-w=4" width="98%" />
 </p>
+
+## i love coffee 💜
+<a href="https://example.com"><img src="support.png" alt="buy me a kofi"  height="52"/></a>
+ </p>
