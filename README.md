@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="profile-banner.gif" alt="Aevyx Banner" width="100%" />
+  <img src="profile-banner.gif" alt="banner" width="100%" />
+</p>
+<p align="center">
+  <img src="welcome.gif" alt="welcome message" width="100%" />
 </p>
 
 # Konnichiwa!! 💜
