@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
    <img width="100%" src="https://raw.githubusercontent.com/aevyx/aevyx/refs/heads/output/github-contribution-grid-snake-dark.svg">
-</p>
+</p> -->
 <p align="center">
-  <img src="banner.gif" alt="Banner" style="border-radius: 10px; width: 100%; max-width: 600px;" />
+  <img src="banner.gif" alt="Banner" style="border-radius: 10px; width: 100%; " />
 </p>
 <h1>Konnichiwa!</h1>
 I'm programmer, designer and whatever... blah blah
