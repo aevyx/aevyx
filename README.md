@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="Aevyx Banner" width="100%" />
+  <img src="banner.gif" alt="Aevyx Banner" width="100%" />
 </p>
 
-##  **konnichiwa**!!
+#  **konnichiwa**!!
 <p>
 I'm programmer, designer and whatever... blah blah
 you can view my website for more info.
@@ -10,7 +10,7 @@ bueeeee!
 </p>
 
 
-##  **magic tricks i can do**
+##  magic tricks i can do
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,python,django,flask,mongodb,mysql,git,github,tailwind,materialui,solidity,rust&theme=dark" />
 </p>
