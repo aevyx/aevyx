@@ -48,12 +48,7 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aevyx&theme=default&background=ffffff&ring=6445ff&fire=6445ff&currStreakLabel=6445ff&currStreakNum=6445ff&sideNums=6445ff&sideLabels=6445ff&dates=6445ff" width="49%" />
 </p>
 <p >
- <div style="background:rgb(221, 221, 233); padding: 1px; display: inline-block; border-radius: 6px;">
-  <div style="background: #fff; padding: 8px; border-radius: 6px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=aevyx&theme=flat&no-frame=true&no-bg=true&margin-w=4" width="98%" />
-  </div>
-</div>
-
+   <img src="https://github-profile-trophy.vercel.app/?username=aevyx&theme=flat&no-frame=false&margin-w=4" width="98%" />
 
 </p>
 
