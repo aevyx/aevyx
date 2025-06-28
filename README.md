@@ -36,16 +36,22 @@
 </p>
 
 ## stats i guess
-
 <p>
    <img width="100%" src="https://raw.githubusercontent.com/aevyx/aevyx/refs/heads/output/github-contribution-snake.svg">
 </p>
+
 <p >
-  <img src="https://github-readme-stats.vercel.app/api?username=aevyx&show_icons=true&theme=purple" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aevyx&theme=purple" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aevyx&show_icons=true&theme=custom&title_color=6445ff&icon_color=6445ff&text_color=2e2e2e&bg_color=ffffff&border_color=eaeaea" width="49%" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=aevyx&theme=default&background=ffffff&ring=6445ff&fire=6445ff&currStreakLabel=6445ff&currStreakNum=6445ff&sideNums=6445ff&sideLabels=6445ff&dates=6445ff" width="49%" />
 </p>
 <p >
-  <img src="https://github-profile-trophy.vercel.app/?username=aevyx&theme=default&no-frame=false&no-bg=false&margin-w=4" width="98%" />
+ <div style="background:rgb(221, 221, 233); padding: 1px; display: inline-block; border-radius: 6px;">
+  <div style="background: #fff; padding: 8px; border-radius: 6px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=aevyx&theme=flat&no-frame=true&no-bg=true&margin-w=4" width="98%" />
+  </div>
+</div>
+
+
 </p>
 
 ## i love coffee 💜
