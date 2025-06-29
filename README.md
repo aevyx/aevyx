@@ -83,10 +83,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aevyx&bg_color=ffffff&color=6445ff&point=6445ff&line=6445ff&hide_border=true" width="100%" />
 <br/>
 <br/>
-<div style="display: flex;padding:0px 10px 20px; flex-wrap: wrap; align-items:start;gap:6px;">
+<p>
   <img width="250" src="https://github-readme-quotes-aevyx.vercel.app/api" style="vertical-align: top;" />
   <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aevyx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=6445ff&text_color=000000&icon_color=6445ff&bg_color=ffffff&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" style="vertical-align: top;" />
-</div>
+</p>
 
 <!-- 
 ## repos accidentally turned out good
