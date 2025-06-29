@@ -49,7 +49,7 @@
  <br/>
 <div style="display: flex;padding:0px 10px 20px; flex-wrap: wrap;  gap: 6px;">
 <img src="assets/images/badges/LinkedIn.svg" height="28"/> <img src="assets/images/badges/LeetCode.svg" height="28"/> <img src="assets/images/badges/HackerRank.svg" height="28"/> <img src="assets/images/badges/CodeChef.svg" height="28"/> <img src="assets/images/badges/GitHub.svg" height="28"/> <img src="assets/images/badges/Twitter.svg" height="28"/> <img src="assets/images/badges/Instagram.svg" height="28"/> <img src="assets/images/badges/YouTube.svg" height="28"/>  <img src="assets/images/badges/Discord.svg" height="28"/>
-<img src="assets/images/badges/email.svg" height="28"/> <img src="assets/images/badges/leetcode.svg" height="28"/> <img src="assets/images/badges/codechef.svg" height="28"/> <img src="assets/images/badges/hackerrank.svg" height="28"/> <img src="assets/images/badges/codewars.svg" height="28"/>
+<img src="assets/images/badges/Email.svg" height="28"/> <img src="assets/images/badges/LeetCode.svg" height="28"/> <img src="assets/images/badges/CodeChef.svg" height="28"/> <img src="assets/images/badges/HackerRank.svg" height="28"/> <img src="assets/images/badges/CodeWars.svg" height="28"/>
 
 </div>
 <div style="display: flex;padding:0px 10px 20px; flex-wrap: wrap;  gap: 6px;">
