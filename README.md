@@ -117,13 +117,10 @@
 <br/>
 
 ## i love coffees 
-<div style="display: flex;padding:0px 10px 20px; flex-wrap: wrap;  gap: 6px;">
-<a href="https://example.com"><img src="assets/images/support-buy-coffee.png" alt="buy me a kofi"  height="52"/></a>
- </p>
-<a href="https://example.com"><img src="assets/images/support-paypal.png" alt="buy me a kofi"  height="52"/></a>
- </p>
-<a href="https://example.com"><img src="assets/images/support-patreon.png" alt="buy me a kofi"  height="52"/></a>
- </p>
-
+<p>
+  <a href="https://example.com"  target="_blank"><img src="assets/images/support-buy-coffee.png" alt="buy me a kofi"  height="52"/></a>
+<a href="https://example.com" target="_blank"><img src="assets/images/support-paypal.png" alt="buy me a kofi"  height="52"/></a>
+<a href="https://example.com" target="_blank"><img src="assets/images/support-patreon.png" alt="buy me a kofi"  height="52"/></a>
+</p>
 
 </div>
