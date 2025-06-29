@@ -66,6 +66,17 @@
 
 <br/>
 
+## sayings i like
+- *“Innovation distinguishes between a leader and a follower.”* — **Steve Jobs**  
+- *“The development of full artificial intelligence could spell the end of the human race.”* — **Stephen Hawking**  
+- *“The real danger is not that computers will begin to think like humans, but that humans will begin to think like computers.”* — **Sydney J. Harris**  
+- *“God is a designer and nothing is original.”* — **Unknown**
+
+<br/>
+<img width="250" src="https://github-readme-quotes-aevyx.vercel.app/api"  />
+
+<br/>
+
 ## stats i guess
 <p>
    <img width="100%" src="https://raw.githubusercontent.com/aevyx/aevyx/refs/heads/output/github-contribution-snake.svg">
@@ -82,11 +93,8 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aevyx&bg_color=ffffff&color=6445ff&point=6445ff&line=6445ff&hide_border=true" width="100%" />
 <br/>
-<br/>
-<p>
-  <img width="250" src="https://github-readme-quotes-aevyx.vercel.app/api" style="vertical-align: top;" />
-  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aevyx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=6445ff&text_color=000000&icon_color=6445ff&bg_color=ffffff&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" style="vertical-align: top;" />
-</p>
+      <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aevyx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=6445ff&text_color=000000&icon_color=6445ff&bg_color=ffffff&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" style="vertical-align: top;" />
+
 
 <!-- 
 ## repos accidentally turned out good
@@ -105,9 +113,17 @@
   </tr>
 </table>
  -->
+<br/>
+<br/>
 
-## i love coffee 💜
-<a href="https://example.com"><img src="assets/images/support.png" alt="buy me a kofi"  height="52"/></a>
+## i love coffees 
+<div style="display: flex;padding:0px 10px 20px; flex-wrap: wrap;  gap: 6px;">
+<a href="https://example.com"><img src="assets/images/support-buy-coffee.png" alt="buy me a kofi"  height="52"/></a>
+ </p>
+<a href="https://example.com"><img src="assets/images/support-paypal.png" alt="buy me a kofi"  height="52"/></a>
+ </p>
+<a href="https://example.com"><img src="assets/images/support-patreon.png" alt="buy me a kofi"  height="52"/></a>
  </p>
 
 
+</div>
