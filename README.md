@@ -41,7 +41,7 @@
 ## **about me**
 
 - 🎬 currently brewing an anime streaming project with the mern stack, because who doesn't want more anime?
-- 🟣 learning blockchain and cybersecurity, even i don't know why, maybe because i was getting bored i guess.
+- 🟣 learning blockchain, ai/ml and cybersecurity, even i don't know why, maybe because i was getting bored i guess.
 - 🎓 starting college this year(2025), unofficially questioning all my life decisions (but still surviving).
 - ⚖️ trying to balance academics, projects, and existential dread like a pro.
 
