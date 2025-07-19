@@ -20,7 +20,7 @@ def fetch_profile_data():
         "username": USERNAME,
         "badges": 0,
         "certificates": 0,
-        "avatar": "user_logo.svg"
+        "avatar": "https://raw.githubusercontent.com/aevyx/aevyx/refs/heads/main/automate/user_logo.svg"
     }
 
     meta_name = soup.find("meta", property="og:title")
