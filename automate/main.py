@@ -20,7 +20,7 @@ def fetch_profile_data():
         "username": USERNAME,
         "badges": 0,
         "certificates": 0,
-        "avatar": "./user_logo.svg"
+        "avatar": "user_logo.svg"
     }
 
     meta_name = soup.find("meta", property="og:title")
@@ -69,7 +69,7 @@ def generate_svg(data):
     name_height = 40 + len(name_lines) * 20
     stats_y = name_height + 45
     stars_y = stats_y + 20
-    svg_height = stars_y + 20
+    svg_height = stars_y + 60
 
     logo_url ='hackerrank_logo.svg'
 
@@ -109,7 +109,7 @@ def generate_svg(data):
 
   <!-- Avatar -->
   <image href="{html.escape(data['avatar'])}" x="20" y="20" width="60" height="60"
-         clip-path="circle(30px at 30px 30px)" class="avatar-pop" style="animation-delay: 0.1s" />
+         clip-path="circle(30px at 30px 30px)" />
 
   <!-- Name -->
   <text x="90" y="40" class="title">{name_svg}</text>
@@ -123,9 +123,12 @@ def generate_svg(data):
 
   <!-- Star Rating -->
   {stars_svg}
+
+  <text x="90" y="40" class="title"></text>
+
 </svg>"""
 
-    with open("card.svg", "w", encoding="utf-8") as f:
+    with open("automate/card.svg", "w", encoding="utf-8") as f:
         f.write(content)
 
 
