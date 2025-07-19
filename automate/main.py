@@ -20,7 +20,8 @@ def fetch_profile_data():
         "username": USERNAME,
         "badges": 0,
         "certificates": 0,
-        "avatar": "https://raw.githubusercontent.com/aevyx/aevyx/refs/heads/main/automate/user_logo.svg"
+        "avatar": "https://raw.githubusercontent.com/aevyx/aevyx/main/automate/user_logo.svg"
+        
     }
 
     meta_name = soup.find("meta", property="og:title")
@@ -71,7 +72,7 @@ def generate_svg(data):
     stars_y = stats_y + 20
     svg_height = stars_y + 60
 
-    logo_url ='https://raw.githubusercontent.com/aevyx/aevyx/refs/heads/main/automate/hackerrank_logo.svg'
+    logo_url ='https://raw.githubusercontent.com/aevyx/aevyx/main/automate/hackerrank_logo.svg'
 
     def render_star(x, filled):
         opacity = "1" if filled else "0.3"
