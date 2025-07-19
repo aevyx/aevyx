@@ -108,6 +108,10 @@
 <br/>
 
 ## stats i guess
+<p >
+ <img src='https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=aevyx&theme={"backgroundColor"%3A"%23ffffff"%2C"textColor"%3A"%23000000"%2C"accentColor"%3A"%236445ff"%2C"borderColor"%3A"%23dddddd"%2C"waterColor"%3A"%236445ff"%2C"streakColor"%3A"%236445ff"}' width="98%" />
+</p>
+
 <p>
    <img width="100%" src="https://raw.githubusercontent.com/aevyx/aevyx/refs/heads/output/github-contribution-snake.svg">
 </p>
@@ -124,6 +128,7 @@
 
 </p>
 
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aevyx&bg_color=ffffff&color=6445ff&point=6445ff&line=6445ff&hide_border=true" width="100%" />
     
 
@@ -133,6 +138,11 @@
     src="https://github-readme-stats.vercel.app/api/wakatime?username=aevyx&hide_title=false&bg_color=ffffff&title_color=6445ff&icon_color=6445ff&text_color=42a196d&bar_color=ffffff" 
     alt="WakaTime Stats" />
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aevyx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=6445ff&text_color=000000&icon_color=6445ff&bg_color=ffffff&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" style="vertical-align: top;" />
+</p>
+
+<p >
+   <img src="https://holopin.me/aevyx" width="98%" />
+
 </p>
 
 
