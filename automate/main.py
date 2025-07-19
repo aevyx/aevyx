@@ -71,7 +71,7 @@ def generate_svg(data):
     stars_y = stats_y + 20
     svg_height = stars_y + 60
 
-    logo_url ='hackerrank_logo.svg'
+    logo_url ='https://raw.githubusercontent.com/aevyx/aevyx/refs/heads/main/automate/hackerrank_logo.svg'
 
     def render_star(x, filled):
         opacity = "1" if filled else "0.3"
@@ -102,7 +102,7 @@ def generate_svg(data):
   </style>
 
   <!-- Background -->
-  <rect width="100%" height="100%" rx="15" fill="#ffffff" />
+  <rect width="100%" height="100%" rx="15" fill="#ffffff"  stroke="#E4E2E2" stroke-width="2"/>
 
   <!-- Top-right HackerRank logo -->
   <image href="{logo_url}" x="415" y="10" width="30" height="30" />
