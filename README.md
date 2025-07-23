@@ -124,7 +124,7 @@
 <img width="54%" src="https://github-readme-leetcode-stats-aevyx.vercel.app/?username=xyz_aevyx">
 </p>
 <p >
-   <img src="https://github-profile-trophy.vercel.app/?username=aevyx&theme=flat&no-frame=false&margin-w=4" width="98%" />
+   <!-- <img src="https://github-profile-trophy.vercel.app/?username=aevyx&theme=flat&no-frame=false&margin-w=4" width="98%" /> -->
 
 </p>
 
@@ -139,28 +139,42 @@
     alt="WakaTime Stats" />
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aevyx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=6445ff&text_color=000000&icon_color=6445ff&bg_color=ffffff&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" style="vertical-align: top;" />
 </p>
-
+    <img width="50%" src="https://chess-stats-card.vercel.app/api/card?user=aevyx&titleColor=%236445ff&textColor=%236445ff" style="vertical-align: top;" />
+<br/>
+<p >
 <p >
    <img src="https://holopin.me/aevyx" width="98%" />
 
 </p>
 
 
-<!-- ## repos accidentally turned out good
+## repos accidentally turned out good
 <table>
   <tr>
     <td>
-      <a href="https://github.com/aevyx/aevyx" title="aevyx">
+      <a href="https://github.com/aevyx/wonder-hive" title="aevyx">
         <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aevyx&repo=aevyx&theme=default&title_color=6445ff&border_radius=10">
       </a>
     </td>
     <td>
-      <a href="https://github.com/aevyx/aevyx" title="AnotherRepo">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aevyx&repo=aevyx&theme=default&title_color=6445ff&border_radius=10">
+      <a href="https://github.com/aevyx/virtual-assistant" title="AnotherRepo">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aevyx&repo=virtual-assistant&theme=default&title_color=6445ff&border_radius=10">
       </a>
     </td>
   </tr>
-</table> -->
+  <tr>
+    <td>
+      <a href="https://github.com/aevyx/wonder-hive" title="aevyx">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aevyx&repo=wonder-hive&theme=default&title_color=6445ff&border_radius=10">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/aevyx/aether-nest" title="AnotherRepo">
+        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aevyx&repo=aether-nest&theme=default&title_color=6445ff&border_radius=10">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
