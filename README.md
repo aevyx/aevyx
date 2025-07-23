@@ -124,10 +124,8 @@
 <img width="54%" src="https://github-readme-leetcode-stats-aevyx.vercel.app/?username=xyz_aevyx">
 </p>
 <p >
-   <!-- <img src="https://github-profile-trophy.vercel.app/?username=aevyx&theme=flat&no-frame=false&margin-w=4" width="98%" /> -->
-
+   <img src="https://github-readme-profile-trophy-aevyx.vercel.app/?username=aevyx&theme=flat&no-frame=false&margin-w=4" width="98%" />
 </p>
-
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aevyx&bg_color=ffffff&color=6445ff&point=6445ff&line=6445ff&hide_border=true" width="100%" />
     
