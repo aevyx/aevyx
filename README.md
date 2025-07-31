@@ -21,7 +21,17 @@
   <a href="https://aevyx.vercel.app">
     <img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/Portfolio-website-6445ff?style=for-the-badge&logo=globe&logoColor=6445ff&labelColor=ffffff&color=6445ff" />
   </a>
-    <a href="https://github.com/aevyx?tab=repositories&sort=stargazers">
+<!-- <a href="https://discord.com/users/1384459263421972536" target="_blank">
+  <img 
+    src="https://dcbadge.limes.pink/api/shield/1384459263421972536?style=for-the-badge&theme=blurple" 
+    alt="Discord Badge" 
+    title="Connect on Discord"
+  />
+</a> -->
+
+
+
+  <a href="https://github.com/aevyx?tab=repositories&sort=stargazers">
     <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aevyx?color=6445ff&style=for-the-badge&labelColor=ffffff&logo=star&logoColor=6445ff" />
   </a>
 
@@ -137,8 +147,12 @@
     alt="WakaTime Stats" />
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aevyx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=6445ff&text_color=000000&icon_color=6445ff&bg_color=ffffff&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" style="vertical-align: top;" />
 </p>
-    <img width="50%" src="https://chess-stats-card.vercel.app/api/card?user=aevyx&titleColor=%236445ff&textColor=%236445ff" style="vertical-align: top;" />
-<br/>
+    <img width="49%" src="https://chess-stats-card.vercel.app/api/card?user=aevyx&titleColor=%236445ff&textColor=%236445ff" style="vertical-align: top;" />
+   <img width="49%" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/31184802" />
+<p >
+</p>
+<img src="https://lanyard.cnrad.dev/api/1384459263421972536?theme=light&compact=true&hideDiscrim=true" width="49%" />
+
 <p >
 <p >
    <img src="https://holopin.me/aevyx" width="98%" />
