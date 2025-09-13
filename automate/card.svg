@@ -28,14 +28,14 @@
          clip-path="circle(30px at 30px 30px)" />
 
   <!-- Name -->
-  <text x="90" y="40" class="title"><tspan x="90" dy="0" class="fade-in" style="animation-delay:0.3s">Aevyx xyz_aevyx</tspan></text>
+  <text x="90" y="40" class="title"><tspan x="90" dy="0" class="fade-in" style="animation-delay:0.3s">Ashish Kumar xyz_aevyx</tspan></text>
 
   <!-- Username -->
   <text x="90" y="60" class="subtitle fade-in" style="animation-delay: 0.5s">@xyz_aevyx</text>
 
   <!-- Stats -->
-  <text x="20" y="105" class="stat slide-in" style="animation-delay: 0.6s">🏅 Badges: 0</text>
-  <text x="200" y="105" class="stat slide-in" style="animation-delay: 0.7s">📜 Certificates: 0</text>
+  <text x="20" y="105" class="stat slide-in" style="animation-delay: 0.6s">🏅 Badges: 1</text>
+  <text x="200" y="105" class="stat slide-in" style="animation-delay: 0.7s">📜 Certificates: 1</text>
 
   <!-- Star Rating -->
   
