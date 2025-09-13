@@ -147,7 +147,7 @@
     alt="WakaTime Stats" />
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aevyx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=6445ff&text_color=000000&icon_color=6445ff&bg_color=ffffff&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" style="vertical-align: top;" />
 </p>
-    <img width="49%" src="https://chess-stats-card.vercel.app/api/card?user=aevyx&titleColor=%236445ff&textColor=%236445ff" style="vertical-align: top;" />
+    <img width="49%" src="https://chess-stats-card.vercel.app/api/card?user=whoplayer115&titleColor=%236445ff&textColor=%236445ff" style="vertical-align: top;" />
    <img width="49%" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/31184802" />
 <p >
 </p>
