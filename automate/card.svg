@@ -34,7 +34,7 @@
   <text x="90" y="60" class="subtitle fade-in" style="animation-delay: 0.5s">@xyz_aevyx</text>
 
   <!-- Stats -->
-  <text x="20" y="105" class="stat slide-in" style="animation-delay: 0.6s">🏅 Badges: 1</text>
+  <text x="20" y="105" class="stat slide-in" style="animation-delay: 0.6s">🏅 Badges: 3</text>
   <text x="200" y="105" class="stat slide-in" style="animation-delay: 0.7s">📜 Certificates: 1</text>
 
   <!-- Star Rating -->
