@@ -106,10 +106,10 @@ def generate_svg(data):
   <rect width="100%" height="100%" rx="15" fill="#ffffff"  stroke="#E4E2E2" stroke-width="2"/>
 
   <!-- Top-right HackerRank logo -->
-  <image href="{logo_url}" x="415" y="10" width="30" height="30" />
+  <img src="{logo_url}" x="415" y="10" width="30" height="30" />
 
   <!-- Avatar -->
-  <image href="https://raw.githubusercontent.com/aevyx/aevyx/refs/heads/main/assets/images/profile.png" x="20" y="20" width="60" height="60"
+  <img src="https://raw.githubusercontent.com/aevyx/aevyx/refs/heads/main/assets/images/profile.png" x="20" y="20" width="60" height="60"
          clip-path="circle(30px at 30px 30px)" />
 
   <!-- Name -->
