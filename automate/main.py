@@ -109,7 +109,7 @@ def generate_svg(data):
   <image href="{logo_url}" x="415" y="10" width="30" height="30" />
 
   <!-- Avatar -->
-  <image href="{html.escape(data['avatar'])}" x="20" y="20" width="60" height="60"
+  <image href="https://raw.githubusercontent.com/aevyx/aevyx/refs/heads/main/assets/images/profile.png" x="20" y="20" width="60" height="60"
          clip-path="circle(30px at 30px 30px)" />
 
   <!-- Name -->
