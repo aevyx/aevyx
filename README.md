@@ -197,4 +197,8 @@
 <a href="https://example.com" target="_blank"><img src="assets/images/support-patreon.png" alt="buy me a kofi"  height="52"/></a>
 </p>
 
+## visitors count
+<img alt="Visitor Counter" width="300" src="https://count.getloli.com/get/@aevyx?theme=gelbooru">
+<br/>
+<br/>
 </div>
