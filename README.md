@@ -198,7 +198,7 @@
 </p>
 
 ## visitors count
-<img alt="Visitor Counter" width="300" src="https://count.getloli.com/get/@aevyx?theme=gelbooru">
+<img alt="Visitor Counter" width="500" src="https://count.getloli.com/get/@aevyx?theme=booru-lewd&padding=10&scale=1.8">
 <br/>
 <br/>
 </div>
