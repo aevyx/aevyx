@@ -7,7 +7,7 @@
 
 # Konnichiwa!! <img src="assets/images/char.png" width="40"> 
 
-<p> I'm a programmer, designer, and basically a *professional chaos generator* — blah blah blah... You can stalk— I mean, view my website for more info.  Bueeeee! 
+<p> I'm a programmer, designer, and basically a *professional chaos generator* - blah blah blah... You can stalk- I mean, view my website for more info.  Bueeeee! 
  </p>
  <p>
 
@@ -107,10 +107,10 @@
 <br/>
 
 ## sayings i like
-- *“Innovation distinguishes between a leader and a follower.”* — **Steve Jobs**  
-- *“The development of full artificial intelligence could spell the end of the human race.”* — **Stephen Hawking**  
-- *“The real danger is not that computers will begin to think like humans, but that humans will begin to think like computers.”* — **Sydney J. Harris**  
-- *“God is a designer and nothing is original.”* — **Unknown**
+- *“Innovation distinguishes between a leader and a follower.”* - **Steve Jobs**  
+- *“The development of full artificial intelligence could spell the end of the human race.”* - **Stephen Hawking**  
+- *“The real danger is not that computers will begin to think like humans, but that humans will begin to think like computers.”* - **Sydney J. Harris**  
+- *“God is a designer and nothing is original.”* - **Unknown**
 
 <br/>
 <img width="250" src="https://github-readme-quotes-aevyx.vercel.app/api"  />
