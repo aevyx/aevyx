@@ -50,9 +50,8 @@
 
 ## **about me**
 
-- 🎬 currently brewing an anime streaming project with the mern stack, because who doesn't want more anime?
+- 🎬 currently working on a fedeverse project, btw i'm not the type of person to give you a sneak peak so wait until it gets completed :)
 - 🟣 learning blockchain, ai/ml and cybersecurity, even i don't know why, maybe because i was getting bored i guess.
-- 🎓 starting college this year(2025), unofficially questioning all my life decisions (but still surviving).
 - ⚖️ trying to balance academics, projects, and existential dread like a pro.
 
  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :
