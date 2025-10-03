@@ -50,7 +50,7 @@
 
 ## **about me**
 
-- 🎬 currently working on a fedeverse project, btw i'm not the type of person to give you a sneak peak so wait until it gets completed :)
+- 🎬 currently working on a fedeverse project, btw i'm not the type of person to give you a sneak peak so wait until it gets completed
 - 🟣 learning blockchain, ai/ml and cybersecurity, even i don't know why, maybe because i was getting bored i guess.
 - ⚖️ trying to balance academics, projects, and existential dread like a pro.
 
