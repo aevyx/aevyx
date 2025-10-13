@@ -127,6 +127,7 @@
 <p >
   <img src="https://github-readme-stats.vercel.app/api?username=aevyx&show_icons=true&theme=custom&title_color=6445ff&icon_color=6445ff&text_color=2e2e2e&bg_color=ffffff&border_color=eaeaea" width="49%" />
  <img src="https://github.com/aevyx/aevyx/blob/main/automate/card.svg" width="49%" />
+
 </p>
 <p>
 <img width="44%" src="https://codeforces-readme-stats.vercel.app/api/card?username=aevyx&title_color=6445ff&top_color=ffffff&icon_color=6445ff&text_color=000000&force_username=true">
