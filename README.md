@@ -125,7 +125,7 @@
    <img width="100%" src="https://raw.githubusercontent.com/aevyx/aevyx/refs/heads/output/github-contribution-snake.svg">
 </p>
 <p >
-  <img src="https://github-readme-stats.vercel.app/api?username=aevyx&show_icons=true&theme=custom&title_color=6445ff&icon_color=6445ff&text_color=2e2e2e&bg_color=ffffff&border_color=eaeaea" width="49%" />
+  <img src="https://github-readme-stats-aevyx.vercel.app/api?username=aevyx&show_icons=true&theme=custom&title_color=6445ff&icon_color=6445ff&text_color=2e2e2e&bg_color=ffffff&border_color=eaeaea" width="49%" />
  <img src="https://github.com/aevyx/aevyx/blob/main/automate/card.svg" width="49%" />
 
 </p>
@@ -143,9 +143,9 @@
 <p>
   <img 
   width="58%"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=aevyx&hide_title=false&bg_color=ffffff&title_color=6445ff&icon_color=6445ff&text_color=42a196d&bar_color=ffffff" 
+    src="https://github-readme-stats-aevyx.vercel.app/api/wakatime?username=aevyx&hide_title=false&bg_color=ffffff&title_color=6445ff&icon_color=6445ff&text_color=42a196d&bar_color=ffffff" 
     alt="WakaTime Stats" />
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aevyx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=6445ff&text_color=000000&icon_color=6445ff&bg_color=ffffff&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" style="vertical-align: top;" />
+    <img width="40%" src="https://github-readme-stats-aevyx.vercel.app/api/top-langs/?username=aevyx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=6445ff&text_color=000000&icon_color=6445ff&bg_color=ffffff&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" style="vertical-align: top;" />
 </p>
     <img width="49%" src="https://chess-stats-card.vercel.app/api/card?user=whoplayer115&titleColor=%236445ff&textColor=%236445ff" style="vertical-align: top;" />
    <img width="49%" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/31184802" />
@@ -165,24 +165,24 @@
   <tr>
     <td>
       <a href="https://github.com/aevyx/wonder-hive" title="aevyx">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aevyx&repo=aevyx&theme=default&title_color=6445ff&border_radius=10">
+        <img height="115" src="https://github-readme-stats-aevyx.vercel.app/api/pin/?username=aevyx&repo=aevyx&theme=default&title_color=6445ff&border_radius=10">
       </a>
     </td>
     <td>
       <a href="https://github.com/aevyx/virtual-assistant" title="AnotherRepo">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aevyx&repo=virtual-assistant&theme=default&title_color=6445ff&border_radius=10">
+        <img height="115" src="https://github-readme-stats-aevyx.vercel.app/api/pin/?username=aevyx&repo=virtual-assistant&theme=default&title_color=6445ff&border_radius=10">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/aevyx/wonder-hive" title="aevyx">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aevyx&repo=wonder-hive&theme=default&title_color=6445ff&border_radius=10">
+        <img height="115" src="https://github-readme-stats-aevyx.vercel.app/api/pin/?username=aevyx&repo=wonder-hive&theme=default&title_color=6445ff&border_radius=10">
       </a>
     </td>
     <td>
       <a href="https://github.com/aevyx/aether-nest" title="AnotherRepo">
-        <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aevyx&repo=aether-nest&theme=default&title_color=6445ff&border_radius=10">
+        <img height="115" src="https://github-readme-stats-aevyx.vercel.app/api/pin/?username=aevyx&repo=aether-nest&theme=default&title_color=6445ff&border_radius=10">
       </a>
     </td>
   </tr>
