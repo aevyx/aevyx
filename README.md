@@ -125,7 +125,7 @@
    <img width="100%" src="https://raw.githubusercontent.com/aevyx/aevyx/refs/heads/output/github-contribution-snake.svg">
 </p>
 <p >
-  <img src="https://github-readme-stats-aevyx.vercel.app/api?username=aevyx&show_icons=true&theme=custom&title_color=6445ff&icon_color=6445ff&text_color=2e2e2e&bg_color=ffffff&border_color=eaeaea" width="49%" />
+  <img src="https://github-readme-stats-aevyx.vercel.app/api?username=aevyx&show_icons=true&title_color=6445ff&icon_color=6445ff&text_color=2e2e2e&bg_color=ffffff&border_color=eaeaea" width="49%" />
  <img src="https://github.com/aevyx/aevyx/blob/main/automate/card.svg" width="49%" />
 
 </p>
