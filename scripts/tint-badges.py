@@ -10,7 +10,7 @@ urls = [
 
 
 # Desired colors
-BG_COLOR = "#00695d"    
+BG_COLOR = "#6445ff"    
 TEXT_ICON_COLOR = "#FFFFFF"  
 
 # Output folder
