@@ -78,7 +78,7 @@ def generate_svg(data):
         opacity = "1" if filled else "0.3"
         return f'''
         <polygon points="{x},0 {x+4},10 {x+12},10 {x+5},18 {x+7},30 {x},23 {x-7},30 {x-5},18 {x-12},10 {x-4},10"
-                 fill="#00695d" opacity="{opacity}" transform="translate(0,{stars_y}) scale(0.8, 0.7)" />'''
+                 fill="#6445ff" opacity="{opacity}" transform="translate(0,{stars_y}) scale(0.8, 0.7)" />'''
 
     stars_svg = "\n".join(render_star(50 + i * 30, i < 3) for i in range(5))
 

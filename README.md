@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/profile-banner.svg" alt="banner" width="100%" />
+  <img src="assets/gifs/profile-banner.gif" alt="banner" width="100%" />
 </p>
 <p align="center">
   <img src="assets/gifs/welcome.gif" alt="welcome message" width="100%" />
@@ -15,11 +15,11 @@
 <div style="display: flex;padding:0px 10px 20px; flex-wrap: wrap;  gap: 6px;">
 <a href="https://aevyx.vercel.app"><img src="https://aevyx.vercel.app/button.png" height="28" /></a>
 <a href="https://aevyx.vercel.app">
-  <img src="https://komarev.com/ghpvc/?username=aevyx&color=00695d&style=flat-square" alt="Profile Views" height="28" />
+  <img src="https://komarev.com/ghpvc/?username=aevyx&color=6445ff&style=flat-square" alt="Profile Views" height="28" />
 </a>
 
   <a href="https://aevyx.vercel.app">
-    <img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/Portfolio-website-00695d?style=for-the-badge&logo=globe&logoColor=00695d&labelColor=ffffff&color=00695d" />
+    <img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/Portfolio-website-6445ff?style=for-the-badge&logo=globe&logoColor=6445ff&labelColor=ffffff&color=6445ff" />
   </a>
 <!-- <a href="https://discord.com/users/1384459263421972536" target="_blank">
   <img 
@@ -32,17 +32,17 @@
 
 
   <a href="https://github.com/aevyx?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aevyx?color=00695d&style=for-the-badge&labelColor=ffffff&logo=star&logoColor=00695d" />
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aevyx?color=6445ff&style=for-the-badge&labelColor=ffffff&logo=star&logoColor=6445ff" />
   </a>
 
   <a href="https://github.com/aevyx?tab=followers">
-    <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/aevyx?color=00695d&labelColor=ffffff&style=for-the-badge&logo=person-add&logoColor=00695d&label=Followers" />
+    <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/aevyx?color=6445ff&labelColor=ffffff&style=for-the-badge&logo=person-add&logoColor=6445ff&label=Followers" />
   </a>
   <a href="https://aevyx.vercel.app">
-  <img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/created%20By-aevyx-00695d?style=for-the-badge&logo=globe&logoColor=00695d&labelColor=ffffff&color=00695d" />
+  <img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/created%20By-aevyx-6445ff?style=for-the-badge&logo=globe&logoColor=6445ff&labelColor=ffffff&color=6445ff" />
 </a>
   <a href="https://aevyx.vercel.app">
-  <img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/license-mit-00695d?style=for-the-badge&logo=globe&logoColor=00695d&labelColor=ffffff&color=00695d" />
+  <img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/license-mit-6445ff?style=for-the-badge&logo=globe&logoColor=6445ff&labelColor=ffffff&color=6445ff" />
 </a>
 
 </div>
@@ -50,29 +50,29 @@
 
 ## **about me**
 
-- 🥗 currently working on a fedeverse project, btw i'm not the type of person to give you a sneak peak
-- 🍏learning blockchain, ai/ml, even i don't know why, maybe because i was getting bored i guess.
-- 🏡 trying to balance academics, projects, and existential dread like a pro.
+- 🎬 currently working on a fedeverse project, btw i'm not the type of person to give you a sneak peak
+- 🟣 learning blockchain, ai/ml, even i don't know why, maybe because i was getting bored i guess.
+- ⚖️ trying to balance academics, projects, and existential dread like a pro.
 
  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :
  <br/>
 <div style="display: flex;padding:0px 10px 20px; flex-wrap: wrap;  gap: 0px 6px;">
-<a href="https://www.linkedin.com/in/">
+<a href="https://www.linkedin.com/in/aevyx01/">
 <img src="assets/images/badges/LinkedIn.svg" height="28"/>
 </a>
-<a href="https://leetcode.com/u/">
+<a href="https://leetcode.com/u/xyz_aevyx/">
  <img src="assets/images/badges/LeetCode.svg" height="28"/>
 </a>
-<a href="https://www.hackerrank.com/">
+<a href="https://www.hackerrank.com/profile/xyz_aevyx">
  <img src="assets/images/badges/HackerRank.svg" height="28"/>
 </a>
-<a href="https://www.codechef.com/">
+<a href="https://www.codechef.com/users/aevyx">
  <img src="assets/images/badges/CodeChef.svg" height="28"/>
 </a>
-<a href="https://github.com">
+<a href="https://github.com/aevyx">
  <img src="assets/images/badges/GitHub.svg" height="28"/>
 </a>
-<a href="https://x.com">
+<a href="https://x.com/xyz_aevyx">
  <img src="assets/images/badges/Twitter.svg" height="28"/>
 </a>
 <a href="">
@@ -118,42 +118,46 @@
 
 ## stats i guess
 <p >
- <img src='https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=aevyx&theme={"backgroundColor"%3A"%23ffffff"%2C"textColor"%3A"%23000000"%2C"accentColor"%3A"%2300695d"%2C"borderColor"%3A"%23dddddd"%2C"waterColor"%3A"%2300695d"%2C"streakColor"%3A"%2300695d"}' width="98%" />
+ <img src='https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=aevyx&theme={"backgroundColor"%3A"%23ffffff"%2C"textColor"%3A"%23000000"%2C"accentColor"%3A"%236445ff"%2C"borderColor"%3A"%23dddddd"%2C"waterColor"%3A"%236445ff"%2C"streakColor"%3A"%236445ff"}' width="98%" />
 </p>
 
 <p>
    <img width="100%" src="https://raw.githubusercontent.com/aevyx/aevyx/refs/heads/output/github-contribution-snake.svg">
 </p>
 <p >
-  <img src="https://github-readme-stats-aevyx.vercel.app/api?username=aevyx&show_icons=true&title_color=00695d&icon_color=00695d&text_color=2e2e2e&bg_color=ffffff&border_color=eaeaea" width="49%" /> 
- <!-- <img src="https://github.com/aevyx/aevyx/blob/main/automate/card.svg" width="49%" /> -->
+  <img src="https://github-readme-stats-aevyx.vercel.app/api?username=aevyx&show_icons=true&title_color=6445ff&icon_color=6445ff&text_color=2e2e2e&bg_color=ffffff&border_color=eaeaea" width="49%" />
+ <img src="https://github.com/aevyx/aevyx/blob/main/automate/card.svg" width="49%" />
 
 </p>
-<!-- <p>
-<img width="44%" src="https://codeforces-readme-stats.vercel.app/api/card?username=aevyx&title_color=00695d&top_color=ffffff&icon_color=00695d&text_color=000000&force_username=true">
+<p>
+<img width="44%" src="https://codeforces-readme-stats.vercel.app/api/card?username=aevyx&title_color=6445ff&top_color=ffffff&icon_color=6445ff&text_color=000000&force_username=true">
 <img width="54%" src="https://github-readme-leetcode-stats-aevyx.vercel.app/?username=xyz_aevyx">
-</p> -->
+</p>
 <p >
    <img src="https://github-readme-profile-trophy-aevyx.vercel.app/?username=aevyx&theme=flat&no-frame=false&margin-w=4" width="98%" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aevyx&bg_color=ffffff&color=00695d&point=00695d&line=00695d&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aevyx&bg_color=ffffff&color=6445ff&point=6445ff&line=6445ff&hide_border=true" width="100%" />
     
 
 <p>
   <img 
   width="58%"
-    src="https://github-readme-stats-aevyx.vercel.app/api/wakatime?username=aevyx&hide_title=false&bg_color=ffffff&title_color=00695d&icon_color=00695d&text_color=42a196d&bar_color=ffffff" 
+    src="https://github-readme-stats-aevyx.vercel.app/api/wakatime?username=aevyx&hide_title=false&bg_color=ffffff&title_color=6445ff&icon_color=6445ff&text_color=42a196d&bar_color=ffffff" 
     alt="WakaTime Stats" />
-    <img width="40%" src="https://github-readme-stats-aevyx.vercel.app/api/top-langs/?username=aevyx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00695d&text_color=000000&icon_color=00695d&bg_color=ffffff&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" style="vertical-align: top;" />
+    <img width="40%" src="https://github-readme-stats-aevyx.vercel.app/api/top-langs/?username=aevyx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=6445ff&text_color=000000&icon_color=6445ff&bg_color=ffffff&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" style="vertical-align: top;" />
 </p>
-    <!-- <img width="49%" src="https://chess-stats-card.vercel.app/api/card?user=whoplayer115&titleColor=%2300695d&textColor=%2300695d" style="vertical-align: top;" />
-   <img width="49%" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/31184802" /> -->
-<!-- <img src="https://lanyard.cnrad.dev/api/1384459263421972536?theme=light&compact=true&hideDiscrim=true" width="49%" /> -->
-<!-- <p >
+    <img width="49%" src="https://chess-stats-card.vercel.app/api/card?user=whoplayer115&titleColor=%236445ff&textColor=%236445ff" style="vertical-align: top;" />
+   <img width="49%" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/31184802" />
+<p >
+</p>
+<img src="https://lanyard.cnrad.dev/api/1384459263421972536?theme=light&compact=true&hideDiscrim=true" width="49%" />
+
+<p >
+<p >
    <img src="https://holopin.me/aevyx" width="98%" />
 
-</p> -->
+</p>
 
 
 ## repos accidentally turned out good
@@ -161,24 +165,24 @@
   <tr>
     <td>
       <a href="https://github.com/aevyx/wonder-hive" title="aevyx">
-        <img height="115" src="https://github-readme-stats-aevyx.vercel.app/api/pin/?username=aevyx&repo=aevyx&theme=default&title_color=00695d&border_radius=10">
+        <img height="115" src="https://github-readme-stats-aevyx.vercel.app/api/pin/?username=aevyx&repo=aevyx&theme=default&title_color=6445ff&border_radius=10">
       </a>
     </td>
     <td>
       <a href="https://github.com/aevyx/virtual-assistant" title="AnotherRepo">
-        <img height="115" src="https://github-readme-stats-aevyx.vercel.app/api/pin/?username=aevyx&repo=virtual-assistant&theme=default&title_color=00695d&border_radius=10">
+        <img height="115" src="https://github-readme-stats-aevyx.vercel.app/api/pin/?username=aevyx&repo=virtual-assistant&theme=default&title_color=6445ff&border_radius=10">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/aevyx/wonder-hive" title="aevyx">
-        <img height="115" src="https://github-readme-stats-aevyx.vercel.app/api/pin/?username=aevyx&repo=wonder-hive&theme=default&title_color=00695d&border_radius=10">
+        <img height="115" src="https://github-readme-stats-aevyx.vercel.app/api/pin/?username=aevyx&repo=wonder-hive&theme=default&title_color=6445ff&border_radius=10">
       </a>
     </td>
     <td>
       <a href="https://github.com/aevyx/aether-nest" title="AnotherRepo">
-        <img height="115" src="https://github-readme-stats-aevyx.vercel.app/api/pin/?username=aevyx&repo=aether-nest&theme=default&title_color=00695d&border_radius=10">
+        <img height="115" src="https://github-readme-stats-aevyx.vercel.app/api/pin/?username=aevyx&repo=aether-nest&theme=default&title_color=6445ff&border_radius=10">
       </a>
     </td>
   </tr>
@@ -194,7 +198,7 @@
 </p>
 
 ## visitors count
-<img alt="Visitor Counter" width="500" src="https://count.getloli.com/get/@aevyx?padding=10&scale=1.8">
+<img alt="Visitor Counter" width="500" src="https://count.getloli.com/get/@aevyx?theme=booru-lisu&padding=10&scale=1.8">
 <br/>
 <br/>
 </div>
