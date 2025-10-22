@@ -57,22 +57,22 @@
  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :
  <br/>
 <div style="display: flex;padding:0px 10px 20px; flex-wrap: wrap;  gap: 0px 6px;">
-<a href="https://www.linkedin.com/in/aevyx01/">
+<a href="https://www.linkedin.com/in/">
 <img src="assets/images/badges/LinkedIn.svg" height="28"/>
 </a>
-<a href="https://leetcode.com/u/xyz_aevyx/">
+<a href="https://leetcode.com/u/">
  <img src="assets/images/badges/LeetCode.svg" height="28"/>
 </a>
-<a href="https://www.hackerrank.com/profile/xyz_aevyx">
+<a href="https://www.hackerrank.com/">
  <img src="assets/images/badges/HackerRank.svg" height="28"/>
 </a>
-<a href="https://www.codechef.com/users/aevyx">
+<a href="https://www.codechef.com/">
  <img src="assets/images/badges/CodeChef.svg" height="28"/>
 </a>
-<a href="https://github.com/aevyx">
+<a href="https://github.com">
  <img src="assets/images/badges/GitHub.svg" height="28"/>
 </a>
-<a href="https://x.com/xyz_aevyx">
+<a href="https://x.com">
  <img src="assets/images/badges/Twitter.svg" height="28"/>
 </a>
 <a href="">
@@ -125,14 +125,14 @@
    <img width="100%" src="https://raw.githubusercontent.com/aevyx/aevyx/refs/heads/output/github-contribution-snake.svg">
 </p>
 <p >
-  <img src="https://github-readme-stats-aevyx.vercel.app/api?username=aevyx&show_icons=true&title_color=00695d&icon_color=00695d&text_color=2e2e2e&bg_color=ffffff&border_color=eaeaea" width="49%" />
- <img src="https://github.com/aevyx/aevyx/blob/main/automate/card.svg" width="49%" />
+  <img src="https://github-readme-stats-aevyx.vercel.app/api?username=aevyx&show_icons=true&title_color=00695d&icon_color=00695d&text_color=2e2e2e&bg_color=ffffff&border_color=eaeaea" width="49%" /> 
+ <!-- <img src="https://github.com/aevyx/aevyx/blob/main/automate/card.svg" width="49%" /> -->
 
 </p>
-<p>
+<!-- <p>
 <img width="44%" src="https://codeforces-readme-stats.vercel.app/api/card?username=aevyx&title_color=00695d&top_color=ffffff&icon_color=00695d&text_color=000000&force_username=true">
 <img width="54%" src="https://github-readme-leetcode-stats-aevyx.vercel.app/?username=xyz_aevyx">
-</p>
+</p> -->
 <p >
    <img src="https://github-readme-profile-trophy-aevyx.vercel.app/?username=aevyx&theme=flat&no-frame=false&margin-w=4" width="98%" />
 </p>
@@ -147,17 +147,13 @@
     alt="WakaTime Stats" />
     <img width="40%" src="https://github-readme-stats-aevyx.vercel.app/api/top-langs/?username=aevyx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=00695d&text_color=000000&icon_color=00695d&bg_color=ffffff&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" style="vertical-align: top;" />
 </p>
-    <img width="49%" src="https://chess-stats-card.vercel.app/api/card?user=whoplayer115&titleColor=%2300695d&textColor=%2300695d" style="vertical-align: top;" />
-   <img width="49%" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/31184802" />
-<p >
-</p>
-<img src="https://lanyard.cnrad.dev/api/1384459263421972536?theme=light&compact=true&hideDiscrim=true" width="49%" />
-
-<p >
-<p >
+    <!-- <img width="49%" src="https://chess-stats-card.vercel.app/api/card?user=whoplayer115&titleColor=%2300695d&textColor=%2300695d" style="vertical-align: top;" />
+   <img width="49%" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/31184802" /> -->
+<!-- <img src="https://lanyard.cnrad.dev/api/1384459263421972536?theme=light&compact=true&hideDiscrim=true" width="49%" /> -->
+<!-- <p >
    <img src="https://holopin.me/aevyx" width="98%" />
 
-</p>
+</p> -->
 
 
 ## repos accidentally turned out good
