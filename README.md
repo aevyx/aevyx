@@ -57,22 +57,22 @@
  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :
  <br/>
 <div style="display: flex;padding:0px 10px 20px; flex-wrap: wrap;  gap: 0px 6px;">
-<a href="https://www.linkedin.com/in/aevyx01/">
+<a href="https://www.linkedin.com/">
 <img src="assets/images/badges/LinkedIn.svg" height="28"/>
 </a>
-<a href="https://leetcode.com/u/xyz_aevyx/">
+<a href="https://leetcode.com/">
  <img src="assets/images/badges/LeetCode.svg" height="28"/>
 </a>
-<a href="https://www.hackerrank.com/profile/xyz_aevyx">
+<a href="https://www.hackerrank.com/">
  <img src="assets/images/badges/HackerRank.svg" height="28"/>
 </a>
-<a href="https://www.codechef.com/users/aevyx">
+<a href="https://www.codechef.com/">
  <img src="assets/images/badges/CodeChef.svg" height="28"/>
 </a>
-<a href="https://github.com/aevyx">
+<a href="https://github.com">
  <img src="assets/images/badges/GitHub.svg" height="28"/>
 </a>
-<a href="https://x.com/xyz_aevyx">
+<a href="https://x.com">
  <img src="assets/images/badges/Twitter.svg" height="28"/>
 </a>
 <a href="">
@@ -88,7 +88,7 @@
  <img src="assets/images/badges/Email.svg" height="28"/>
 </a>
 <a href="">
- <img src="assets/images/badges/Codewars.svg" height="28"/>
+ <img src="assets/images/badges/CodeWars.svg" height="28"/>
 </a>
 </div>
 <div style="display: flex;padding:0px 10px 20px; flex-wrap: wrap;  gap: 6px;">
