@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/gifs/profile-banner.gif" alt="banner" width="100%" />
+  <img src="assets/images/profile-banner.svg" alt="banner" width="100%" />
 </p>
 <p align="center">
   <img src="assets/gifs/welcome.gif" alt="welcome message" width="100%" />
@@ -50,9 +50,9 @@
 
 ## **about me**
 
-- 🎬 currently working on a fedeverse project, btw i'm not the type of person to give you a sneak peak
-- 🟣 learning blockchain, ai/ml, even i don't know why, maybe because i was getting bored i guess.
-- ⚖️ trying to balance academics, projects, and existential dread like a pro.
+- 🥗 currently working on a fedeverse project, btw i'm not the type of person to give you a sneak peak
+- 🍏learning blockchain, ai/ml, even i don't know why, maybe because i was getting bored i guess.
+- 🏡 trying to balance academics, projects, and existential dread like a pro.
 
  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :
  <br/>
