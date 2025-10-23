@@ -7,20 +7,26 @@
 
 # Konnichiwa!! <img src="assets/images/char.png" width="40"> 
 
-<p> I'm a programmer, designer, and basically a *professional chaos generator* - blah blah blah... You can stalk- I mean, view my website for more info.  Bueeeee! 
+<p> I'm a (Un)professional developer. You can stalk - I mean, view my website for more info.  Bueeeee! 
  </p>
  <p>
 
  
 <div style="display: flex;padding:0px 10px 20px; flex-wrap: wrap;  gap: 6px;">
-<a href="https://aevyx.vercel.app"><img src="https://aevyx.vercel.app/button.png" height="28" /></a>
-<a href="https://aevyx.vercel.app">
+<a href="https://metaversemagician.space/button.png"><img src="https://metaversemagician.space/button.png" height="28" /></a>
+
+  <a href="https://aevyx.space">
+    <img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/my-internetpage-6445ff?style=for-the-badge&logo=globe&logoColor=6445ff&labelColor=ffffff&color=6445ff" />
+  </a>
+  <a href="https://metaversemagician.space">
+    <img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/my-portfolio-6445ff?style=for-the-badge&logo=globe&logoColor=6445ff&labelColor=ffffff&color=6445ff" />
+  </a>
+  <a href="https://illusnoria.neocities.org/">
+    <img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/my-illusnoria-6445ff?style=for-the-badge&logo=globe&logoColor=6445ff&labelColor=ffffff&color=6445ff" />
+  </a>
+<a href="https://aevyx.space">
   <img src="https://komarev.com/ghpvc/?username=aevyx&color=6445ff&style=flat-square" alt="Profile Views" height="28" />
 </a>
-
-  <a href="https://aevyx.vercel.app">
-    <img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/Portfolio-website-6445ff?style=for-the-badge&logo=globe&logoColor=6445ff&labelColor=ffffff&color=6445ff" />
-  </a>
 <!-- <a href="https://discord.com/users/1384459263421972536" target="_blank">
   <img 
     src="https://dcbadge.limes.pink/api/shield/1384459263421972536?style=for-the-badge&theme=blurple" 
@@ -38,12 +44,8 @@
   <a href="https://github.com/aevyx?tab=followers">
     <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/aevyx?color=6445ff&labelColor=ffffff&style=for-the-badge&logo=person-add&logoColor=6445ff&label=Followers" />
   </a>
-  <a href="https://aevyx.vercel.app">
   <img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/created%20By-aevyx-6445ff?style=for-the-badge&logo=globe&logoColor=6445ff&labelColor=ffffff&color=6445ff" />
-</a>
-  <a href="https://aevyx.vercel.app">
   <img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/license-mit-6445ff?style=for-the-badge&logo=globe&logoColor=6445ff&labelColor=ffffff&color=6445ff" />
-</a>
 
 </div>
 
@@ -57,8 +59,11 @@
  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :
  <br/>
 <div style="display: flex;padding:0px 10px 20px; flex-wrap: wrap;  gap: 0px 6px;">
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/ashishk9">
 <img src="assets/images/badges/LinkedIn.svg" height="28"/>
+</a>
+<a href="https://github.com/aevyx">
+ <img src="assets/images/badges/GitHub.svg" height="28"/>
 </a>
 <a href="https://leetcode.com/">
  <img src="assets/images/badges/LeetCode.svg" height="28"/>
@@ -68,9 +73,6 @@
 </a>
 <a href="https://www.codechef.com/">
  <img src="assets/images/badges/CodeChef.svg" height="28"/>
-</a>
-<a href="https://github.com">
- <img src="assets/images/badges/GitHub.svg" height="28"/>
 </a>
 <a href="https://x.com">
  <img src="assets/images/badges/Twitter.svg" height="28"/>
