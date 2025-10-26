@@ -90,7 +90,7 @@
  <img src="assets/images/badges/Email.svg" height="28"/>
 </a>
 <a href="">
- <img src="assets/images/badges/CodeWars.svg" height="28"/>
+ <img src="assets/images/badges/Codewars.svg" height="28"/>
 </a>
 </div>
 <div style="display: flex;padding:0px 10px 20px; flex-wrap: wrap;  gap: 6px;">
