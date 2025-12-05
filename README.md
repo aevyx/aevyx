@@ -7,7 +7,7 @@
 
 # Konnichiwa!! <img src="assets/images/char.png" width="40"> 
 
-<p> I'm a (Un)professional developer. You can stalk - I mean, view my website for more info.  Bueeeee! 
+<p> I'm a (un)professional developer. You can stalk - I mean, view my website for more info.  Bueeeee! 
  </p>
  <p>
 
