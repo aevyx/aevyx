@@ -19,7 +19,7 @@
  `+sso+:-`                 `.-/+oso:         
 `++:.                           `-/+/               Battery    80%
 .`                                 `/         
-                                                    Theme: Catppuccin-Mocha
-                                                    Icons: Papirus-Dark
+                                                    Theme:     Catppuccin-Mocha
+                                                    Icons:     Papirus-Dark
                                                     Locale:    en_US.UTF-8
 ```
