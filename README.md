@@ -4,9 +4,9 @@ i'm a developer (i think so), a cse student and a full-time enthusiast of things
 ### Talk with me
 i'm usually haunting the digital space. You'll mostly find me lurking on my personals:
 * **Site:** [https://metaversemagician.space](https://metaversemagician.space)
-  
 * **Page:** [https://aevyx.space](https://aevyx.space)
 * **Fedi Instance:**  [https://quasar.metaversemagician.space](https://quasar.metaversemagician.space)
+* **Neocities:**  [https://quasar.metaversemagician.space](https://illusnoria.neocities.org)
 
 there are more places but their domain changes from time to time...so i am not linking them here...
 
